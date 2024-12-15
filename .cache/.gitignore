@@ -1,0 +1,44 @@
+# System files
+.ICEauthority
+.Xauthority
+.cache/
+.config/
+.dbus/
+.dotnet/
+.face
+.face.dpkg-new
+.face.icon
+.git-credentials
+.gitconfig
+.local/
+.m2/
+.mozilla/
+.pki/
+.profile
+.snap/
+.sudo_as_admin_successful
+.vscode/
+.wget-hsts
+.xsession-errors
+.xsession-errors.old
+.zprofile
+.zsh_history
+.zshrc
+
+# Android and project-related files
+.android/
+.gradle/
+.java/
+Android/
+AndroidStudioProjects/
+
+# Personal directories
+Desktop/
+Documents/
+Downloads/
+Videos/
+
+# Specific files to ignore
+WhatsApp-2.23.18.76.deb
+create_ap/
+file.php
